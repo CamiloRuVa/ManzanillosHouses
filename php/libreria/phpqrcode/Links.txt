@@ -1,0 +1,9 @@
+=== Generar Codigo QR ===
+https://codigosdeprogramacion.com/2017/02/16/curso-de-php-y-mysql-16-generar-codigo-qr/
+
+=== SQL en appinventor ===
+http://kio4.com/appinventor/340_appinventor_mysql.htm
+
+=== Mail PHP ===
+https://desarrolloweb.com/articulos/969.php
+https://www.php.net/manual/es/function.mail.php
